@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\bin\Debug\Comercial el Triunfo.exe.config
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\bin\Debug\Comercial el Triunfo.exe
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\bin\Debug\Comercial el Triunfo.pdb
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial el Triunfo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial_el_Triunfo.Form1.resources
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial_el_Triunfo.Properties.Resources.resources
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial el Triunfo.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial el Triunfo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial el Triunfo.exe
+C:\Users\Hp\source\repos\Comercial el Triunfo\Comercial el Triunfo\obj\Debug\Comercial el Triunfo.pdb
