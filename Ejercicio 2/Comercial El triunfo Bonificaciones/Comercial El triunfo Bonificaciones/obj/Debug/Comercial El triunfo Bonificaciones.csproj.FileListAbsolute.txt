@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\bin\Debug\Comercial El triunfo Bonificaciones.exe.config
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\bin\Debug\Comercial El triunfo Bonificaciones.exe
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\bin\Debug\Comercial El triunfo Bonificaciones.pdb
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial El triunfo Bonificaciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial_El_triunfo_Bonificaciones.Form1.resources
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial_El_triunfo_Bonificaciones.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial El triunfo Bonificaciones.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial El triunfo Bonificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial El triunfo Bonificaciones.exe
+C:\Users\Usuario\source\repos\Comercial El triunfo Bonificaciones\Comercial El triunfo Bonificaciones\obj\Debug\Comercial El triunfo Bonificaciones.pdb
